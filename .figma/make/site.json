@@ -1,0 +1,12 @@
+{
+  "title": "Spor · Regionale Lebensmittel in deiner Nähe",
+  "language": "de",
+  "description": "Finde regionale Anbieter und ihre Verkaufsorte in Stadt und Landkreis Osnabrück.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
